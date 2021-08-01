@@ -1,4 +1,4 @@
-### Hi there, my name is Steve - aka [SteveOCodes] [website]
+### Hi there, my name is Steve 
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline%20%3A%28&label=SteveOCodes&up_color=green&up_message=Online&url=https%3A%2F%2Fsteven-oehley.github.io.%2F)](https://steven-oehley.github.io./)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SteveO_Codes?label=Twitter&style=social)](https://twitter.com/SteveO_Codes)
