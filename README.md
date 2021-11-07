@@ -5,7 +5,7 @@
 
 ## I'm an aspiring developer, passionate about all things code and teaching others this skill!
 
-- 👩‍💻 I’m currently studying Full-Stack Development through Covalence and self study
+- 👩‍💻 I’m currently studying Full-Stack Development self study
 - 👋 I’m looking to connect with others who are learning
 - 👨‍🎓 2021 Goals --> To be able to build full stack web applications
 - 🤝 Future Goals --> To be able to use my new skills to transition into tech
